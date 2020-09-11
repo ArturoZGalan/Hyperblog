@@ -4,3 +4,5 @@ Luis tiene 28 años y nacio en Mexico,
 en Puebla ciudad.
 
 Hoy hablaremos de su historia.
+
+esta comenzando a usar git
