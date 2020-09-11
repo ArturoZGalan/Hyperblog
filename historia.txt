@@ -6,3 +6,6 @@ en Puebla ciudad.
 Hoy hablaremos de su historia.
 
 esta comenzando a usar git
+
+quiere ser data scientist
+
