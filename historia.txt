@@ -7,5 +7,5 @@ Hoy hablaremos de su historia.
 
 esta comenzando a usar git
 
-quiere ser data scientist
+quiere ser data scientist y ux designer
 
